@@ -1,1 +1,1 @@
-![Estado](https://github.com/manmacbar/validacion/actions/.github/workflows/validar.yml/badge.svg)
+![Estado](https://github.com/manmacbar/validacion/actions/workflows/validar.yml/badge.svg)
